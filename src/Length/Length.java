@@ -14,7 +14,6 @@ public class Length {
 
     @Override
     public boolean equals(Object o) {
-
         Length  length = (Length) o;
         return distance == length.distance;
     }
