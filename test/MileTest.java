@@ -1,4 +1,4 @@
-import Mile.Mile;
+import Length.Mile;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -15,5 +15,5 @@ public class MileTest {
     public void TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual() throws Exception {
         assertNotEquals(new Mile(3), new Mile(2));
     }
-    
+
 }

@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MileTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MileTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/MileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6327543">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,14 +35,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Mile/Mile.java">
+      <file leaf-file-name="YardTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/YardTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0049628">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Yard.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Length/Yard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Length/Mile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Length.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Length/Length.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +112,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/Mile/Mile.java" />
         <option value="$PROJECT_DIR$/test/MileTest.java" />
+        <option value="$PROJECT_DIR$/src/Mile/Measurement.java" />
+        <option value="$PROJECT_DIR$/test/MeasurementTest.java" />
+        <option value="$PROJECT_DIR$/src/Measurement/Measurement.java" />
+        <option value="$PROJECT_DIR$/src/Measurement/Mile.java" />
+        <option value="$PROJECT_DIR$/src/Measurement/Length.java" />
+        <option value="$PROJECT_DIR$/src/Length/Mile.java" />
+        <option value="$PROJECT_DIR$/test/LengthTest.java" />
+        <option value="$PROJECT_DIR$/src/Length/Yard.java" />
+        <option value="$PROJECT_DIR$/src/Length/Length.java" />
+        <option value="$PROJECT_DIR$/test/YardTest.java" />
       </list>
     </option>
   </component>
@@ -88,8 +138,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="354" />
-    <option name="y" value="46" />
+    <option name="x" value="50" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="735" />
   </component>
@@ -164,7 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mile" />
+              <option name="myItemId" value="Length" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,13 +235,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Length" />
       <recent name="Mile" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MileTest.TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual">
+  <component name="RunManager" selected="JUnit.YardTest">
     <configuration default="false" name="MileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="LengthJava" />
@@ -213,14 +264,77 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="MileTest.TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MileTest.TwoMileMeasurementsEqualInLengthShouldBeEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="LengthJava" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MileTest" />
-      <option name="METHOD_NAME" value="TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual" />
+      <option name="METHOD_NAME" value="TwoMileMeasurementsEqualInLengthShouldBeEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="YardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YardTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="YardTest.OneLengthShouldEqualToYardConversion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YardTest" />
+      <option name="METHOD_NAME" value="OneLengthShouldEqualToYardConversion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="YardTest.OneLengthShouldNotEqualWrongConversionInYard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YardTest" />
+      <option name="METHOD_NAME" value="OneLengthShouldNotEqualWrongConversionInYard" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -656,14 +770,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.MileTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MileTest.TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MileTest.TwoMileMeasurementsEqualInLengthShouldBeEqual" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.YardTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.YardTest.OneLengthShouldEqualToYardConversion" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.YardTest.OneLengthShouldNotEqualWrongConversionInYard" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MileTest.TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MileTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.YardTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.YardTest.OneLengthShouldNotEqualWrongConversionInYard" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.YardTest.OneLengthShouldEqualToYardConversion" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MileTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MileTest.TwoMileMeasurementsEqualInLengthShouldBeEqual" />
       </list>
     </recent_temporary>
   </component>
@@ -678,34 +798,52 @@
       <option name="number" value="Default" />
       <updated>1459791795794</updated>
       <workItem from="1459791798566" duration="136000" />
-      <workItem from="1459793717424" duration="886000" />
+      <workItem from="1459793717424" duration="3746000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MileTest - 2016.04.05 at 20h 34m 49s.xml">
-      <configuration name="MileTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MileTest - 2016.04.05 at 20h 34m 52s.xml">
-      <configuration name="MileTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MileTest - 2016.04.05 at 20h 35m 04s.xml">
+    <history-entry file="MileTest - 2016.04.05 at 20h 56m 36s.xml">
       <configuration name="MileTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MileTest_TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual - 2016.04.05 at 20h 37m 08s.xml">
       <configuration name="MileTest.TwoMileMeasurementsNotEqualInLengthShouldBeNotBeEqual" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="YardTest - 2016.04.05 at 20h 59m 52s.xml">
+      <configuration name="YardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest - 2016.04.05 at 21h 20m 24s.xml">
+      <configuration name="YardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest - 2016.04.05 at 21h 25m 58s.xml">
+      <configuration name="YardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest_OneLengthShouldEqualToYardConversion - 2016.04.05 at 21h 12m 12s.xml">
+      <configuration name="YardTest.OneLengthShouldEqualToYardConversion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest_OneLengthShouldEqualToYardConversion - 2016.04.05 at 21h 13m 14s.xml">
+      <configuration name="YardTest.OneLengthShouldEqualToYardConversion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest_OneLengthShouldEqualToYardConversion - 2016.04.05 at 21h 14m 26s.xml">
+      <configuration name="YardTest.OneLengthShouldEqualToYardConversion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest_OneLengthShouldEqualToYardConversion - 2016.04.05 at 21h 19m 54s.xml">
+      <configuration name="YardTest.OneLengthShouldEqualToYardConversion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YardTest_OneLengthShouldNotEqualWrongConversionInYard - 2016.04.05 at 21h 23m 50s.xml">
+      <configuration name="YardTest.OneLengthShouldNotEqualWrongConversionInYard" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1022000" />
+    <option name="totallyTimeSpent" value="3882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="354" y="46" width="1280" height="735" extended-state="0" />
+    <frame x="50" y="23" width="1280" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -715,6 +853,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -725,7 +864,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -750,21 +888,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mile/Mile.java">
+    <entry file="file://$PROJECT_DIR$/src/Length/Length.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/LengthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37220845">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Length/Mile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Length/Yard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/MileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6327543">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/YardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0049628">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
