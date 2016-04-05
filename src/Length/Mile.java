@@ -2,7 +2,7 @@ package Length;
 
 public class Mile extends Length {
 
-    public Mile(int length) {
+    public Mile(double length) {
         super(length);
     }
 

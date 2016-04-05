@@ -4,7 +4,7 @@ public class Length {
 
     private double distance;
 
-    public Length(int distance) {
+    public Length(double distance) {
         this.distance = distance;
     }
 
