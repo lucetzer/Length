@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fe1053-0a94-4b20-930d-538404677260" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LengthJava/Length/Inch.class" afterPath="$PROJECT_DIR$/out/production/LengthJava/Length/Inch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LengthJava/Length/Length.class" afterPath="$PROJECT_DIR$/out/production/LengthJava/Length/Length.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LengthJava/Length/Yard.class" afterPath="$PROJECT_DIR$/out/production/LengthJava/Length/Yard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Length/Feet.java" afterPath="$PROJECT_DIR$/src/Length/Feet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Length/Inch.java" afterPath="$PROJECT_DIR$/src/Length/Inch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Length/Length.java" afterPath="$PROJECT_DIR$/src/Length/Length.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Length/Mile.java" afterPath="$PROJECT_DIR$/src/Length/Mile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Length/Yard.java" afterPath="$PROJECT_DIR$/src/Length/Yard.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/FeetTest.java" afterPath="$PROJECT_DIR$/test/FeetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/InchTest.java" afterPath="$PROJECT_DIR$/test/InchTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/YardTest.java" afterPath="$PROJECT_DIR$/test/YardTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/LengthTest.java" afterPath="$PROJECT_DIR$/test/LengthTest.java" />
     </list>
     <ignored path="LengthJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +28,8 @@
       <file leaf-file-name="LengthTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/LengthTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55798686">
-              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.13129103">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +78,8 @@
         <option value="$PROJECT_DIR$/src/Length/Inch.java" />
         <option value="$PROJECT_DIR$/src/Length/Yard.java" />
         <option value="$PROJECT_DIR$/src/Length/Mile.java" />
-        <option value="$PROJECT_DIR$/test/LengthTest.java" />
         <option value="$PROJECT_DIR$/src/Length/Length.java" />
+        <option value="$PROJECT_DIR$/test/LengthTest.java" />
       </list>
     </option>
   </component>
@@ -213,91 +200,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LengthTest.shouldAddSameLengthsTogetherInInches">
-    <configuration default="false" name="LengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="LengthJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="LengthTest.shouldAddSameLengthsTogether" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="LengthJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthTest" />
-      <option name="METHOD_NAME" value="shouldAddSameLengthsTogether" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="LengthTest.shouldAddDifferentMeasurementTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="LengthJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthTest" />
-      <option name="METHOD_NAME" value="shouldAddDifferentMeasurementTypes" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="LengthJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthTest" />
-      <option name="METHOD_NAME" value="shouldAddAndCompareDifferentMeasurementTypesEqualInLength" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.LengthTest">
     <configuration default="false" name="LengthTest.shouldAddSameLengthsTogetherInInches" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="LengthJava" />
@@ -307,6 +210,90 @@
       <option name="MAIN_CLASS_NAME" value="LengthTest" />
       <option name="METHOD_NAME" value="shouldAddSameLengthsTogetherInInches" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LengthTest" />
+      <option name="METHOD_NAME" value="shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LengthTest.shouldCompareDifferentMeasurementTypesEqualInLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LengthTest" />
+      <option name="METHOD_NAME" value="shouldCompareDifferentMeasurementTypesEqualInLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LengthTest.shouldCompareDifferentMeasurementTypesNotEqualInLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LengthTest" />
+      <option name="METHOD_NAME" value="shouldCompareDifferentMeasurementTypesNotEqualInLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="LengthJava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LengthTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -742,19 +729,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LengthTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddSameLengthsTogether" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddDifferentMeasurementTypes" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddSameLengthsTogetherInInches" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddSameLengthsTogetherInInches" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldCompareDifferentMeasurementTypesEqualInLength" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldCompareDifferentMeasurementTypesNotEqualInLength" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LengthTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddSameLengthsTogetherInInches" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddSameLengthsTogether" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LengthTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddDifferentMeasurementTypes" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LengthTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldCompareDifferentMeasurementTypesNotEqualInLength" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldCompareDifferentMeasurementTypesEqualInLength" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LengthTest.shouldAddSameLengthsTogetherInInches" />
       </list>
     </recent_temporary>
   </component>
@@ -770,31 +757,19 @@
       <updated>1459791795794</updated>
       <workItem from="1459791798566" duration="136000" />
       <workItem from="1459793717424" duration="5598000" />
-      <workItem from="1459937346456" duration="10852000" />
+      <workItem from="1459937346456" duration="11059000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LengthTest_shouldAddAndCompareDifferentMeasurementTypesEqualInLength - 2016.04.07 at 00h 20m 42s.xml">
-      <configuration name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" configurationId="JUnit" />
+    <history-entry file="LengthTest - 2016.04.07 at 00h 30m 20s.xml">
+      <configuration name="LengthTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LengthTest_shouldAddAndCompareDifferentMeasurementTypesEqualInLength - 2016.04.07 at 00h 21m 34s.xml">
-      <configuration name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" configurationId="JUnit" />
+    <history-entry file="LengthTest_shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength - 2016.04.07 at 00h 28m 23s.xml">
+      <configuration name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LengthTest_shouldAddAndCompareDifferentMeasurementTypesEqualInLength - 2016.04.07 at 00h 23m 08s.xml">
-      <configuration name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LengthTest_shouldAddAndCompareDifferentMeasurementTypesEqualInLength - 2016.04.07 at 00h 23m 28s.xml">
-      <configuration name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesEqualInLength" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LengthTest_shouldAddSameLengthsTogether - 2016.04.07 at 00h 23m 46s.xml">
-      <configuration name="LengthTest.shouldAddSameLengthsTogether" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LengthTest_shouldAddSameLengthsTogether - 2016.04.07 at 00h 24m 05s.xml">
-      <configuration name="LengthTest.shouldAddSameLengthsTogether" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LengthTest_shouldAddSameLengthsTogether - 2016.04.07 at 00h 24m 43s.xml">
-      <configuration name="LengthTest.shouldAddSameLengthsTogether" configurationId="JUnit" />
+    <history-entry file="LengthTest_shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength - 2016.04.07 at 00h 28m 39s.xml">
+      <configuration name="LengthTest.shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LengthTest_shouldAddSameLengthsTogether - 2016.04.07 at 00h 24m 57s.xml">
       <configuration name="LengthTest.shouldAddSameLengthsTogether" configurationId="JUnit" />
@@ -805,13 +780,25 @@
     <history-entry file="LengthTest_shouldAddSameLengthsTogetherInInches - 2016.04.07 at 00h 26m 20s.xml">
       <configuration name="LengthTest.shouldAddSameLengthsTogetherInInches" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LengthTest_shouldCompareDifferentMeasurementTypesEqualInLength - 2016.04.07 at 00h 29m 32s.xml">
+      <configuration name="LengthTest.shouldCompareDifferentMeasurementTypesEqualInLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthTest_shouldCompareDifferentMeasurementTypesEqualInLength - 2016.04.07 at 00h 29m 36s.xml">
+      <configuration name="LengthTest.shouldCompareDifferentMeasurementTypesEqualInLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthTest_shouldCompareDifferentMeasurementTypesNotEqualInLength - 2016.04.07 at 00h 30m 05s.xml">
+      <configuration name="LengthTest.shouldCompareDifferentMeasurementTypesNotEqualInLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthTest_shouldCompareDifferentMeasurementTypesNotEqualInLength - 2016.04.07 at 00h 30m 14s.xml">
+      <configuration name="LengthTest.shouldCompareDifferentMeasurementTypesNotEqualInLength" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18372000" />
+    <option name="totallyTimeSpent" value="18579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-17" y="23" width="1420" height="735" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -820,7 +807,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24572317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24572317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2037325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14586358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -878,7 +865,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1013,8 +1000,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/LengthTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55798686">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.13129103">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

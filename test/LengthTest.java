@@ -22,7 +22,7 @@ public class LengthTest {
     }
 
     @Test
-    public void shouldAddSameLengthsTogetherInInches() throws Exception {
+    public void shouldAddSameLengthsTogetherAndReturnInInches() throws Exception {
         assertEquals(26, new Inch(13).add(new Inch(13)), 0);
         assertEquals(96, new Feet(5).add(new Feet(3)), 0);
         assertEquals(443520, new Mile(4).add(new Mile(3)), 0);
@@ -31,16 +31,27 @@ public class LengthTest {
 
     @Test
     public void shouldCompareDifferentMeasurementTypesEqualInLength() throws Exception {
-        Feet feet = new Feet(6);
-        Yard yard = new Yard(2);
-        assertEquals(feet, yard);
+        assertEquals(new Feet(6), new Yard(2));
     }
+
+    @Test
+    public void shouldCompareDifferentMeasurementTypesNotEqualInLength() throws Exception {
+        assertNotEquals(new Feet(6), new Yard(3));
+    }
+
 
     @Test
     public void shouldAddAndCompareDifferentMeasurementTypesEqualInLength() throws Exception {
         float inch = new Inch(13).add(new Inch(11));
         float feet = new Feet(2).convertToInch();
         assertEquals(feet, inch, 0);
+    }
+
+    @Test
+    public void shouldAddAndCompareDifferentMeasurementTypesNotEqualInLength() throws Exception {
+        float inch = new Yard(13).add(new Yard(13));
+        float feet = new Feet(2).convertToInch();
+        assertNotEquals(feet, inch, 0);
     }
 }
 
