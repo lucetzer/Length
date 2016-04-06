@@ -2,8 +2,8 @@ package Length;
 
 public class Mile extends Length {
 
-    public Mile(double length) {
-        super(length);
+    public Mile(float distance) {
+        super(distance, 63360);
     }
 
 }

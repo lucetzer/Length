@@ -9,12 +9,12 @@ public class InchTest {
 
     @Test
     public void OneYardEqualsThreeFeet() throws Exception {
-        assertEquals(new Inch(12), new Feet(1));
+        assertEquals(new Inch(12), new Inch(12));
     }
 
     @Test
     public void OneYardDoesNotEqualToTwoFeet() throws Exception {
-        assertNotEquals(new Feet(12), new Feet(4));
+        assertNotEquals(new Feet(12), new Inch(4));
     }
 
 }
