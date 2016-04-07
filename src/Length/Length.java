@@ -10,11 +10,11 @@ public class Length {
         this.baseComparator = baseComparator;
     }
 
-    public float add(Length other) {
-        return this.convertToInch() + other.convertToInch();
+    public Length add(Length other) {
+        return new Length(this.convertToInch() + other.convertToInch(), other.baseComparator);
     }
 
-    public float convertToInch() {
+    private float convertToInch() {
         return this.distance * this.baseComparator;
     }
 
