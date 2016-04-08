@@ -11,7 +11,7 @@ public class Length {
     }
 
     public Length add(Length other) {
-        return new Length(this.convertToInch() + other.convertToInch(), other.baseComparator);
+        return new Length(this.convertToInch() + other.convertToInch(), 1);
     }
 
     private float convertToInch() {
